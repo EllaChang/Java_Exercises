@@ -1,0 +1,9 @@
+build
+.vscode
+*.o
+*.a
+*.lib
+a.out*
+main
+test_assoc
+test_bytes
