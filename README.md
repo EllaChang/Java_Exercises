@@ -1,2 +1,2 @@
 # Java_Exercises
-Some of the homework assignments completed for CSC212 Data Structures.
+Some of the homework assignments completed for CSC212 Data Structures (Fall 2018).
